@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cloud9ide/outplan.git"
+    "url": "https://github.com/cloud9ideopen/outplan.git"
   },
   "keywords": [
     "a/b testing",
@@ -26,9 +26,9 @@
   "author": "Lennart Kats <lennart@c9.io>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cloud9ide/planout/issues"
+    "url": "https://github.com/cloud9ideopen/planout/issues"
   },
-  "homepage": "https://github.com/cloud9ide/planout#readme",
+  "homepage": "https://github.com/cloud9ideopen/planout#readme",
   "devDependencies": {
     "babel-loader": "^6.2.4",
     "babel-plugin-add-module-exports": "^0.1.2",
